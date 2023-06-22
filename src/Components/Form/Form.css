@@ -1,0 +1,874 @@
+.main{
+    width: 890px;
+    /* height: 100%; */
+    margin:  2rem  0;
+    /* background-color: rgb(235, 171, 171); */
+
+
+    
+    
+} 
+main1{
+  width: 100%;
+  margin: 2rem 0;
+}
+.address-phone{
+    margin:  2rem  0;
+
+    /* height: 400px; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 15px;
+    font-weight: lighter;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    
+}
+.items{
+   display: flex;
+   flex-direction: row;
+   gap: 2rem
+
+}
+.item2>span {
+    color: rgb(29, 120, 156);
+    
+}
+.appoint-date{
+    /* margin-top: 2rem; */
+   
+    margin: 2rem 6rem;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    
+   align-items: center;
+   justify-content: flex-start;
+   font-weight: lighter;
+  
+    
+   
+
+}
+.appoint-date>input{
+    border: none;
+    border-bottom: 1px solid black;
+    background: none;
+    outline: none;
+    background-color: rgb(245, 229, 200);
+
+    
+}
+.appoint-date>input:focus{
+    background: rgb(255, 210, 127);
+}
+.patient-information{
+    margin: 2rem 6rem; 
+    font-weight: lighter;
+      
+}
+.patient-information>input{
+    border: none;
+    border-bottom: 1px solid black;
+    background: none;
+    outline: none;
+    background-color: rgb(245, 229, 200);  
+
+ 
+
+}
+.patient-information>input:focus{
+    background: rgb(255, 210, 127);
+}
+#p1{
+    width: 527px;
+}
+#p2{
+    width: 466px;
+}
+#p3{
+    width: 570px;
+}
+#p4{
+    width: 587px;
+}
+p{
+    font-size: 12px;
+    font-weight: 400;
+}
+h3{
+    color: rgb(56, 163, 56);
+}
+.reffer-doctor-information{
+    margin: 2rem 6rem;
+    font-weight: lighter;
+}
+.reffer-doctor-information>input{
+    border: none;
+    border-bottom: 1px solid black;
+    background: none;
+    outline: none;
+    background-color: rgb(245, 229, 200);
+
+}
+.reffer-doctor-information>input:focus{
+    background: rgb(255, 210, 127);
+}
+.refrral-reason{
+    margin: 2rem 6rem;
+    font-weight: lighter;
+}
+.refrral-reason>input{
+    border: none;
+    border-bottom: 1px solid black;
+    background: none;
+    outline: none;
+    background-color: rgb(245, 229, 200);
+}
+.refrral-reason>input:focus{
+    background: rgb(255, 210, 127);
+}
+
+    #checkbox1:before {
+        content: "51";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox2:before {
+        content: "52";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox3:before {
+        content: "53";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox4:before {
+        content: "54";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox5:before {
+        content: "55";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox6:before {
+        content: "56";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox7:before {
+        content: "57";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox8:before {
+        content: "58";
+        font-size: 18px;
+        margin-left: 3px;
+      }
+      #checkbox9:before {
+        content: "59";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox10:before {
+        content: "60";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox11:before {
+        content: "61";
+        font-size: 18px;
+    margin-left: 3px;
+      }
+      #checkbox12:before {
+        content: "62";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox13:before {
+        content: "63";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+
+      #checkbox14:before {
+        content: "64";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox15:before {
+        content: "65";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox16:before {
+        content: "66";
+        font-size: 18px;
+        margin-left: 3px;
+     
+    
+      }
+      .treat-area>form>table>tr>td>input[type=checkbox]{
+        width: 25px;
+        height: 25px;
+        margin-left: 2px;
+        /* background: red; */
+       
+      
+      }
+      .treat-area>form>table>tr>td>input[type=checkbox]{
+        border: none;
+      }
+
+      .treat-area>form>table>tr>td>input::before{
+       
+        background: rgb(255, 224, 166);
+      }
+      
+      .treat-area{
+        margin: 2rem 6rem;
+        font-weight: lighter;
+      }
+  
+      #checkbox17:before {
+        content: "1";
+        font-size: 18px;
+        margin-left: 3px;
+        
+    
+      }
+      #checkbox18:before {
+        content: "2";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox19:before {
+        content: "3";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox20:before {
+        content: "4";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox21:before {
+        content: "5";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox22:before {
+        content: "6";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox23:before {
+        content: "7";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox24:before {
+        content: "8";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox25:before {
+        content: "9";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox26:before {
+        content: "10";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox27:before {
+        content: "11";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox28:before {
+        content: "12";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox29:before {
+        content: "13";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox30:before {
+        content: "14";
+        font-size: 18px;
+        margin-left: 3px;
+      }
+      #checkbox31:before {
+        content: "15";
+        font-size: 18px;
+        margin-left: 3px;
+    
+      }
+      #checkbox32:before {
+        content: "16";
+        font-size: 18px;
+        margin-left: 3px;
+      }
+ 
+   .line1{
+    width: 2px;
+    height: 30px;
+    background-color: aqua;
+   }
+   .line{
+    width: 545px;
+    height: 2px;
+    background-color: aqua;
+   }
+   #checkbox33:before {
+    content: "32";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox34:before {
+    content: "31";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox35:before {
+    content: "30";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox36:before {
+    content: "29";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox37:before {
+    content: "28";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox38:before {
+    content: "27";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox39:before {
+    content: "26";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox40:before {
+    content: "25";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox41:before {
+    content: "24";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox42:before {
+    content: "23";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox43:before {
+    content: "22";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox44:before {
+    content: "21";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox45:before {
+    content: "20";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox46:before {
+    content: "19";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox47:before {
+    content: "18";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox48:before {
+    content: "17";
+    font-size: 18px;
+    margin-left: 3px;
+  
+
+  }
+  #checkbox49:before {
+    content: "82";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox50:before {
+    content: "81";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox51:before {
+    content: "80";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox52:before {
+    content: "79";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox53:before {
+    content: "78";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox54:before {
+    content: "77";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox55:before {
+    content: "76";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox56:before {
+    content: "75";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox57:before {
+    content: "74";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+
+  #checkbox58:before {
+    content: "73";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox59:before {
+    content: "72";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox60:before {
+    content: "71";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox61:before {
+    content: "70";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox62:before {
+    content: "69";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox63:before {
+    content: "68";
+    font-size: 18px;
+    margin-left: 3px;
+
+  }
+  #checkbox64:before {
+    content: "67";
+    font-size: 18px;
+    margin-left: 3px;
+  
+
+
+  }
+  .treat-area>span:nth-of-type(1){
+    color: rgb(56, 163, 56);
+    font-weight: 700;
+    font-size: larger;
+  }
+.treat-area>form{
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+#checkd1:before {
+  content: "A";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd2:before {
+  content: "B";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd3:before {
+  content: "C";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd4:before {
+  content: "D";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd5:before {
+  content: "E";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd6:before {
+  content: "F";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd7:before {
+  content: "G";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd8:before {
+  content: "H";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd9:before {
+  content: "I";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd10:before {
+  content: "J";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd11:before {
+  content: "T";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd12:before {
+  content: "S";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd13:before {
+  content: "R";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd14:before {
+  content: "Q";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd15:before {
+  content: "P";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd16:before {
+  content: "O";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd17:before {
+  content: "N";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd18:before {
+  content: "M";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd19:before {
+  content: "L";
+  font-size: 18px;
+  margin-left: 3px;
+}
+#checkd20:before {
+  content: "K";
+  font-size: 18px;
+  margin-left: 3px;
+}
+.deciduous>form>table>tr>td>input[type=checkbox]{
+  width: 25px;
+  height: 25px;
+  margin-left: 2px;
+  /* background: red; */
+ 
+
+}
+.deciduous{
+  margin: 2rem 6rem;
+  font-weight: lighter;
+}
+ .deciduous>form{
+  margin-left: 180px;
+ }
+ .deciduous>h4{
+  font-size: 20px;
+  margin-left: 280px;
+ }
+ .line2{
+  width: 340px;
+  height: 2px;
+  background-color: aqua;
+ }
+ .teeth-verify>input{
+  border: none;
+  border-bottom: 1px solid black;
+  background: none;
+  outline: none;
+  background-color: rgb(245, 229, 200);
+
+  
+}
+.teeth-verify>input:focus{
+  background: rgb(255, 210, 127);
+}
+.teeth-verify{
+  margin: 2rem 6rem;
+}
+.others{
+  margin: 2rem 6rem;
+
+}
+.others>input{
+  background: none;
+  outline: none;
+  background-color: rgb(245, 229, 200);
+  width: 600px;
+  height: 100px;
+}
+.others>input:focus{
+  background: rgb(255, 210, 127);
+
+}
+.footer{
+
+  width: 100%;
+  height: 30px;
+  color: white;
+  text-align: center;
+  background-color: rgb(73, 73, 235);
+
+}
+
+.main-container{
+  width: 890px;
+  /* height: 100%; */
+  margin:  2rem  0;
+  /* background-color: rgb(235, 171, 171); */
+}
+.logo-name{
+  margin:0 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  /* align-items: center; */
+ 
+}
+.names{
+  display: flex;
+  flex-direction: column;
+}
+.names>span{
+  font-size: 13px;
+  font-weight: 500;
+  color: gray;
+
+}
+.names>h5{
+
+  color: rgb(112, 112, 211);
+}
+.patient-instru{
+  margin:2rem  5rem;
+  font-size: 18px;
+  color: gray;
+
+}
+li{
+  margin-top: 0.5rem;
+}
+.patient-instru>ul>li>span{
+  color: rgb(104, 104, 243);
+  font-weight: 500;
+}
+.maps{
+  display: flex;
+  flex-direction: row;
+  margin:2rem  5rem;
+  justify-content: space-evenly;
+}
+.map1  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.map2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.map3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.map1>span{
+  font-size: 10px;
+  color: gray;
+}
+.map2>span{
+  font-size: 10px;
+ color: gray;
+}
+.map3>span{
+  font-size: 10px;
+  color: gray;
+}
+.maps1{
+  display: flex;
+  flex-direction: row;
+  margin:2rem  5rem;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.map4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.map5{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.map4>span{
+  font-size: 10px;
+  color: gray;
+}
+.map5>span{
+  font-size: 10px;
+  color: gray;
+}
+.footer{
+
+  width: 100%;
+  height: 30px;
+  color: white;
+  text-align: center;
+  background-color: rgb(73, 73, 235);
+
+}
+.errors{
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+} 
+@media screen and (max-width:900px){
+  .main{
+    /* transform: scale(0.9); */
+      margin: 2rem 0;
+    width: 100%; 
+  }
+  
+  
+  
+ 
+  
+}
+@media screen and (max-width:600px){
+  .main{
+    /* transform: scale(0.5); */
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 2rem 0;
+    height: 100%;
+
+  }
+ .items{
+    width: 100%;
+ }
+ 
+ 
+}
